@@ -1,0 +1,31 @@
+body{
+
+background-color: darkgray;
+
+}
+
+.form{
+
+padding: 3%;
+margin: 20%;
+background-color: darkslategray;
+border-style:solid;
+border-radius: 30px;
+align-content: center;
+text-align: center;
+}
+
+h3{
+
+    color: dimgray;
+    
+}
+
+
+.btn{
+
+    background-attachment: fixed;
+    background-color: dimgray;
+    color: darkslategray;
+    border-radius: 8px;
+}
